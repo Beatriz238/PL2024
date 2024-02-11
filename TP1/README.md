@@ -1,16 +1,16 @@
-#TPC1: Análise de um dataset
+# TPC1: Análise de um dataset
 
-2024-02-11
+**Data:** 2024-02-11
 
-##Autor
+## Autor
 
-Nome: Beatriz Fernandes
+- **Nome:** Beatriz Fernandes
+- **Id:** A100602
 
-Id: A100602
+## Lista de Parágrafos
 
-##Lista de Parágrafos
+O objetivo deste TPC era ler um ficheiro CSV, sem usar o módulo CSV, processá-lo de modo a criar os seguintes resultados:
 
-O objetico deste TPC era ler um fixeiro CSV, sem usar o módulo CSV, processá-lo de modo a criar os seguintes resultados:
-  + Lista ordenada alfabeticamente das modalidades desportivas;
-  + Percentagens de atletas aptos e inaptos para a prática desportiva;
-  + Distribuição de atletas por escalão etário (escalão = intervalo de 5 anos): ... [30-34], [35-39], ...
+1. Lista ordenada alfabeticamente das modalidades desportivas;
+2. Percentagens de atletas aptos e inaptos para a prática desportiva;
+3. Distribuição de atletas por escalão etário (escalão = intervalo de 5 anos): [30-34], [35-39], ...
