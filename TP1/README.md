@@ -9,7 +9,7 @@
 
 ## Lista de Parágrafos
 
-O objetivo deste TPC era ler um ficheiro CSV, sem usar o módulo CSV, processá-lo de modo a criar os seguintes resultados:
+O objetivo deste TPC era ler um ficheiro CSV, sem usar o módulo CSV, e processá-lo de modo a criar os seguintes resultados:
 
 1. Lista ordenada alfabeticamente das modalidades desportivas;
 2. Percentagens de atletas aptos e inaptos para a prática desportiva;
