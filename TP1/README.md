@@ -7,7 +7,7 @@
 - **Nome:** Beatriz Fernandes
 - **Id:** A100602
 
-## Lista de Parágrafos
+## Resumo
 
 O objetivo deste TPC era ler um ficheiro CSV, sem usar o módulo CSV, e processá-lo de modo a criar os seguintes resultados:
 
